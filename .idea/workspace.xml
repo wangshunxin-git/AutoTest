@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdf1cec4-94c1-4852-8945-b2586e9f7ba9" name="Default Changelist" comment="">
+    <list default="true" id="fdf1cec4-94c1-4852-8945-b2586e9f7ba9" name="Default Changelist" comment="CESHI">
+      <change afterPath="$PROJECT_DIR$/com.testng/src/main/java/com/course/testNG/TimeOutTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.testng/src/main/java/com/course/testNG/BasicAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.testng/src/main/java/com/course/testNG/BasicAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.testng/src/main/resources/MultiThread.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com.testng/src/main/resources/MultiThread.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.testng/target/classes/com/course/testNG/BasicAnnotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/com.testng/target/classes/com/course/testNG/BasicAnnotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.testng/target/classes/com/course/testNG/multiThread/MultiThreadOnXml.class" beforeDir="false" afterPath="$PROJECT_DIR$/com.testng/target/classes/com/course/testNG/multiThread/MultiThreadOnXml.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,77 +67,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="TestNG.MultiThreadOnAnnotion">
-    <configuration name="DataProviderTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.testng" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.testNG.paramter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.course.testNG.paramter" />
-      <option name="MAIN_CLASS_NAME" value="com.course.testNG.paramter.DataProviderTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DataProviderTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.testng" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.testNG.paramter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.course.testNG.paramter" />
-      <option name="MAIN_CLASS_NAME" value="com.course.testNG.paramter.DataProviderTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DataProviderTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.testng" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.testNG.paramter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.course.testNG.paramter" />
-      <option name="MAIN_CLASS_NAME" value="com.course.testNG.paramter.DataProviderTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DataProviderTest.test2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.testng" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.testNG.paramter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.course.testNG.paramter" />
-      <option name="MAIN_CLASS_NAME" value="com.course.testNG.paramter.DataProviderTest" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.TimeOutTest.timeFailed">
     <configuration name="MultiThreadOnAnnotion" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.testng" />
       <extension name="coverage">
@@ -150,13 +85,76 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MultiThreadOnXml.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.testng" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.testNG.multiThread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.testNG.multiThread" />
+      <option name="MAIN_CLASS_NAME" value="com.course.testNG.multiThread.MultiThreadOnXml" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeOutTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.testng" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.testNG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.testNG" />
+      <option name="MAIN_CLASS_NAME" value="com.course.testNG.TimeOutTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeOutTest.timeFailed" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.testng" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.testNG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.testNG" />
+      <option name="MAIN_CLASS_NAME" value="com.course.testNG.TimeOutTest" />
+      <option name="METHOD_NAME" value="timeFailed" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/Travis/AutoTest/com.testng/src/main/resources/MultiThread.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.testng" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/com.testng/src/main/resources/MultiThread.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TimeOutTest.timeFailed" />
+        <item itemvalue="TestNG.TimeOutTest" />
+        <item itemvalue="TestNG./Users/Travis/AutoTest/com.testng/src/main/resources/MultiThread.xml" />
+        <item itemvalue="TestNG.MultiThreadOnXml.test1" />
         <item itemvalue="TestNG.MultiThreadOnAnnotion" />
-        <item itemvalue="TestNG.DataProviderTest (1)" />
-        <item itemvalue="TestNG.DataProviderTest" />
-        <item itemvalue="TestNG.DataProviderTest.test2" />
-        <item itemvalue="TestNG.DataProviderTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -196,6 +194,7 @@
       <workItem from="1606372296565" duration="6658000" />
       <workItem from="1606380156408" duration="1257000" />
       <workItem from="1606446984059" duration="2308000" />
+      <workItem from="1606449464494" duration="5481000" />
     </task>
     <task id="LOCAL-00001" summary="CESHI">
       <created>1606366101706</created>
@@ -225,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606448970309</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="CESHI">
+      <created>1606449621623</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606449621623</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,34 +265,34 @@
       <screen x="0" y="25" width="1680" height="956" />
     </state>
     <state x="511" y="432" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.25.1680.956@0.25.1680.956" timestamp="1606291407898" />
-    <state x="419" y="100" key="CommitChangelistDialog2" timestamp="1606449495386">
+    <state x="419" y="100" key="CommitChangelistDialog2" timestamp="1606450424937">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
-    <state x="419" y="100" key="CommitChangelistDialog2/0.25.1680.956@0.25.1680.956" timestamp="1606449495386" />
-    <state width="1638" height="355" key="GridCell.Tab.0.bottom" timestamp="1606449461170">
+    <state x="419" y="100" key="CommitChangelistDialog2/0.25.1680.956@0.25.1680.956" timestamp="1606450424937" />
+    <state width="1638" height="396" key="GridCell.Tab.0.bottom" timestamp="1606458173968">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
-    <state width="1638" height="355" key="GridCell.Tab.0.bottom/0.25.1680.956@0.25.1680.956" timestamp="1606449461170" />
-    <state width="1638" height="355" key="GridCell.Tab.0.center" timestamp="1606449461170">
+    <state width="1638" height="396" key="GridCell.Tab.0.bottom/0.25.1680.956@0.25.1680.956" timestamp="1606458173968" />
+    <state width="1638" height="396" key="GridCell.Tab.0.center" timestamp="1606458173967">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
-    <state width="1638" height="355" key="GridCell.Tab.0.center/0.25.1680.956@0.25.1680.956" timestamp="1606449461170" />
-    <state width="1638" height="355" key="GridCell.Tab.0.left" timestamp="1606449461169">
+    <state width="1638" height="396" key="GridCell.Tab.0.center/0.25.1680.956@0.25.1680.956" timestamp="1606458173967" />
+    <state width="1638" height="396" key="GridCell.Tab.0.left" timestamp="1606458173967">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
-    <state width="1638" height="355" key="GridCell.Tab.0.left/0.25.1680.956@0.25.1680.956" timestamp="1606449461169" />
-    <state width="1638" height="355" key="GridCell.Tab.0.right" timestamp="1606449461170">
+    <state width="1638" height="396" key="GridCell.Tab.0.left/0.25.1680.956@0.25.1680.956" timestamp="1606458173967" />
+    <state width="1638" height="396" key="GridCell.Tab.0.right" timestamp="1606458173967">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
-    <state width="1638" height="355" key="GridCell.Tab.0.right/0.25.1680.956@0.25.1680.956" timestamp="1606449461170" />
+    <state width="1638" height="396" key="GridCell.Tab.0.right/0.25.1680.956@0.25.1680.956" timestamp="1606458173967" />
     <state x="227" y="163" key="SettingsEditor" timestamp="1606366001681">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
     <state x="227" y="163" key="SettingsEditor/0.25.1680.956@0.25.1680.956" timestamp="1606366001681" />
-    <state x="440" y="240" key="Vcs.Push.Dialog.v2" timestamp="1606449577377">
+    <state x="440" y="240" key="Vcs.Push.Dialog.v2" timestamp="1606458280485">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
-    <state x="440" y="240" key="Vcs.Push.Dialog.v2/0.25.1680.956@0.25.1680.956" timestamp="1606449577377" />
+    <state x="440" y="240" key="Vcs.Push.Dialog.v2/0.25.1680.956@0.25.1680.956" timestamp="1606458280485" />
     <state x="664" y="241" key="VcsDiffUtil.ChangesDialog" timestamp="1606448881986">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
@@ -303,10 +309,18 @@
       <screen x="0" y="25" width="1680" height="956" />
     </state>
     <state x="626" y="424" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1680.956@0.25.1680.956" timestamp="1606365894837" />
+    <state x="653" y="334" key="export.test.results" timestamp="1606458210373">
+      <screen x="0" y="25" width="1680" height="956" />
+    </state>
+    <state x="653" y="334" key="export.test.results/0.25.1680.956@0.25.1680.956" timestamp="1606458210373" />
     <state x="243" y="29" key="new project wizard" timestamp="1606285315536">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
     <state x="243" y="29" key="new project wizard/0.25.1680.956@0.25.1680.956" timestamp="1606285315536" />
+    <state x="505" y="235" width="670" height="676" key="search.everywhere.popup" timestamp="1606454025690">
+      <screen x="0" y="25" width="1680" height="956" />
+    </state>
+    <state x="505" y="235" width="670" height="676" key="search.everywhere.popup/0.25.1680.956@0.25.1680.956" timestamp="1606454025690" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
