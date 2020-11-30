@@ -1,13 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="4" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdf1cec4-94c1-4852-8945-b2586e9f7ba9" name="Default Changelist" comment="CESHI">
-      <change afterPath="$PROJECT_DIR$/com.testng/src/main/java/com/course/testNG/TimeOutTest.java" afterDir="false" />
+    <list default="true" id="fdf1cec4-94c1-4852-8945-b2586e9f7ba9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aventstack_extentreports_3_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_relevantcodes_extentreports_2_41_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vimalselvam_testng_extentsreport_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_8_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter07/moco-runner-0.11.0-standalone.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter07/readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter07/startup1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/Chapter6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/main/java/com/test/extend/demo/ExtentTestNGIReporterListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/main/java/com/test/extend/demo/TestMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/main/resources/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/test-output/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.testng/src/main/java/com/course/testNG/BasicAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.testng/src/main/java/com/course/testNG/BasicAnnotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.testng/src/main/resources/MultiThread.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com.testng/src/main/resources/MultiThread.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.testng/target/classes/com/course/testNG/BasicAnnotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/com.testng/target/classes/com/course/testNG/BasicAnnotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.testng/target/classes/com/course/testNG/multiThread/MultiThreadOnXml.class" beforeDir="false" afterPath="$PROJECT_DIR$/com.testng/target/classes/com/course/testNG/multiThread/MultiThreadOnXml.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.testng/com.testng.iml" beforeDir="false" afterPath="$PROJECT_DIR$/com.testng/com.testng.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.testng/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com.testng/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,23 +70,30 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="archetypeCatalog=internal" />
+  </component>
   <component name="ProjectId" id="1klaGnVUfKRDRSQMNhYOkRszq30" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter07" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -65,43 +105,24 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
-  <component name="RunManager" selected="TestNG.TimeOutTest.timeFailed">
-    <configuration name="MultiThreadOnAnnotion" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.testng" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.testNG.multiThread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.course.testNG.multiThread" />
-      <option name="MAIN_CLASS_NAME" value="com.course.testNG.multiThread.MultiThreadOnAnnotion" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Chapter07" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Chapter07" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.report.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/AutoTest/Chapter6/test-output/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
     </configuration>
-    <configuration name="MultiThreadOnXml.test1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.testng" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.testNG.multiThread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.course.testNG.multiThread" />
-      <option name="MAIN_CLASS_NAME" value="com.course.testNG.multiThread.MultiThreadOnXml" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="report.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/AutoTest/Chapter6/test-output/report.html" useBuiltInWebServerPort="true">
+      <method v="2" />
     </configuration>
     <configuration name="TimeOutTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.testng" />
@@ -138,9 +159,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="/Users/Travis/AutoTest/com.testng/src/main/resources/MultiThread.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.testng" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/com.testng/src/main/resources/MultiThread.xml" />
+    <configuration name="/Users/Travis/AutoTest/Chapter6/src/main/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter6" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter6/src/main/resources/testng.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -150,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.report.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="TestNG./Users/Travis/AutoTest/Chapter6/src/main/resources/testng.xml" />
         <item itemvalue="TestNG.TimeOutTest.timeFailed" />
         <item itemvalue="TestNG.TimeOutTest" />
-        <item itemvalue="TestNG./Users/Travis/AutoTest/com.testng/src/main/resources/MultiThread.xml" />
-        <item itemvalue="TestNG.MultiThreadOnXml.test1" />
-        <item itemvalue="TestNG.MultiThreadOnAnnotion" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +215,8 @@
       <workItem from="1606372296565" duration="6658000" />
       <workItem from="1606380156408" duration="1257000" />
       <workItem from="1606446984059" duration="2308000" />
-      <workItem from="1606449464494" duration="5481000" />
+      <workItem from="1606449464494" duration="11089000" />
+      <workItem from="1606471149962" duration="7062000" />
     </task>
     <task id="LOCAL-00001" summary="CESHI">
       <created>1606366101706</created>
@@ -231,13 +253,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606449621623</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="CESHI">
+      <created>1606458358403</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606458358403</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/AutoTest" />
     </ignored-roots>
@@ -245,62 +275,66 @@
     <option name="LAST_COMMIT_MESSAGE" value="CESHI" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="440" y="165" width="800" height="723" key="#Intentions" timestamp="1606476595401">
+      <screen x="0" y="25" width="1680" height="956" />
+    </state>
+    <state x="440" y="165" width="800" height="723" key="#Intentions/0.25.1680.956@0.25.1680.956" timestamp="1606476595401" />
     <state x="440" y="165" key="#Notifications" timestamp="1606366155701">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
     <state x="440" y="165" key="#Notifications/0.25.1680.956@0.25.1680.956" timestamp="1606366155701" />
-    <state x="440" y="165" key="#Project_Structure" timestamp="1606291362030">
+    <state x="440" y="165" key="#Project_Structure" timestamp="1606467911639">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
-    <state x="440" y="165" key="#Project_Structure/0.25.1680.956@0.25.1680.956" timestamp="1606291362030" />
-    <state x="304" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606278801647">
+    <state x="440" y="165" key="#Project_Structure/0.25.1680.956@0.25.1680.956" timestamp="1606467911638" />
+    <state x="304" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606469692564">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
-    <state x="304" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.956@0.25.1680.956" timestamp="1606278801647" />
-    <state x="550" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606291977078">
+    <state x="304" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.956@0.25.1680.956" timestamp="1606469692564" />
+    <state x="550" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606710998944">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
-    <state x="550" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1680.956@0.25.1680.956" timestamp="1606291977078" />
+    <state x="550" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1680.956@0.25.1680.956" timestamp="1606710998944" />
     <state x="511" y="432" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1606291407898">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
     <state x="511" y="432" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.25.1680.956@0.25.1680.956" timestamp="1606291407898" />
-    <state x="419" y="100" key="CommitChangelistDialog2" timestamp="1606450424937">
+    <state x="419" y="100" key="CommitChangelistDialog2" timestamp="1606712229227">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
-    <state x="419" y="100" key="CommitChangelistDialog2/0.25.1680.956@0.25.1680.956" timestamp="1606450424937" />
-    <state width="1638" height="396" key="GridCell.Tab.0.bottom" timestamp="1606458173968">
+    <state x="419" y="100" key="CommitChangelistDialog2/0.25.1680.956@0.25.1680.956" timestamp="1606712229227" />
+    <state width="1638" height="257" key="GridCell.Tab.0.bottom" timestamp="1606711450789">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
-    <state width="1638" height="396" key="GridCell.Tab.0.bottom/0.25.1680.956@0.25.1680.956" timestamp="1606458173968" />
-    <state width="1638" height="396" key="GridCell.Tab.0.center" timestamp="1606458173967">
+    <state width="1638" height="257" key="GridCell.Tab.0.bottom/0.25.1680.956@0.25.1680.956" timestamp="1606711450789" />
+    <state width="1638" height="257" key="GridCell.Tab.0.center" timestamp="1606711450788">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
-    <state width="1638" height="396" key="GridCell.Tab.0.center/0.25.1680.956@0.25.1680.956" timestamp="1606458173967" />
-    <state width="1638" height="396" key="GridCell.Tab.0.left" timestamp="1606458173967">
+    <state width="1638" height="257" key="GridCell.Tab.0.center/0.25.1680.956@0.25.1680.956" timestamp="1606711450788" />
+    <state width="1638" height="257" key="GridCell.Tab.0.left" timestamp="1606711450787">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
-    <state width="1638" height="396" key="GridCell.Tab.0.left/0.25.1680.956@0.25.1680.956" timestamp="1606458173967" />
-    <state width="1638" height="396" key="GridCell.Tab.0.right" timestamp="1606458173967">
+    <state width="1638" height="257" key="GridCell.Tab.0.left/0.25.1680.956@0.25.1680.956" timestamp="1606711450787" />
+    <state width="1638" height="257" key="GridCell.Tab.0.right" timestamp="1606711450788">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
-    <state width="1638" height="396" key="GridCell.Tab.0.right/0.25.1680.956@0.25.1680.956" timestamp="1606458173967" />
-    <state x="227" y="163" key="SettingsEditor" timestamp="1606366001681">
+    <state width="1638" height="257" key="GridCell.Tab.0.right/0.25.1680.956@0.25.1680.956" timestamp="1606711450788" />
+    <state x="227" y="138" key="SettingsEditor" timestamp="1606469754518">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
-    <state x="227" y="163" key="SettingsEditor/0.25.1680.956@0.25.1680.956" timestamp="1606366001681" />
-    <state x="440" y="240" key="Vcs.Push.Dialog.v2" timestamp="1606458280485">
+    <state x="227" y="138" key="SettingsEditor/0.25.1680.956@0.25.1680.956" timestamp="1606469754518" />
+    <state x="440" y="240" key="Vcs.Push.Dialog.v2" timestamp="1606712291478">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
-    <state x="440" y="240" key="Vcs.Push.Dialog.v2/0.25.1680.956@0.25.1680.956" timestamp="1606458280485" />
+    <state x="440" y="240" key="Vcs.Push.Dialog.v2/0.25.1680.956@0.25.1680.956" timestamp="1606712291478" />
     <state x="664" y="241" key="VcsDiffUtil.ChangesDialog" timestamp="1606448881986">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
     <state x="664" y="241" key="VcsDiffUtil.ChangesDialog/0.25.1680.956@0.25.1680.956" timestamp="1606448881986" />
-    <state x="517" y="332" key="com.intellij.ide.util.TipDialog" timestamp="1606446984726">
+    <state x="517" y="332" key="com.intellij.ide.util.TipDialog" timestamp="1606471151876">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
-    <state x="517" y="332" key="com.intellij.ide.util.TipDialog/0.25.1680.956@0.25.1680.956" timestamp="1606446984726" />
+    <state x="517" y="332" key="com.intellij.ide.util.TipDialog/0.25.1680.956@0.25.1680.956" timestamp="1606471151876" />
     <state x="554" y="401" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1606278487643">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
@@ -313,10 +347,10 @@
       <screen x="0" y="25" width="1680" height="956" />
     </state>
     <state x="653" y="334" key="export.test.results/0.25.1680.956@0.25.1680.956" timestamp="1606458210373" />
-    <state x="243" y="29" key="new project wizard" timestamp="1606285315536">
+    <state x="243" y="29" key="new project wizard" timestamp="1606466391573">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
-    <state x="243" y="29" key="new project wizard/0.25.1680.956@0.25.1680.956" timestamp="1606285315536" />
+    <state x="243" y="29" key="new project wizard/0.25.1680.956@0.25.1680.956" timestamp="1606466391573" />
     <state x="505" y="235" width="670" height="676" key="search.everywhere.popup" timestamp="1606454025690">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
