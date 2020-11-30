@@ -5,7 +5,7 @@
       "uri":"/demo"
     },
     "response": {
-      "test":"这是第一个moco框架demo"
+      "text":"这是第一个moco框架demo"
     }
   }
 ]
