@@ -6,14 +6,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Chapter6" />
         <module name="com.testng" />
+        <module name="demo (1) (com.study.test)" />
+        <module name="demo" />
+        <module name="Chapter6" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Chapter10" target="1.5" />
       <module name="Chapter6" target="6" />
       <module name="com.testng" target="1.5" />
       <module name="com.testng (1)" target="1.5" />
+      <module name="demo" target="1.8" />
+      <module name="demo (1) (com.study.test)" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
+      <module name="demo (1) (com.study.test)" options="-parameters" />
+    </option>
   </component>
 </project>

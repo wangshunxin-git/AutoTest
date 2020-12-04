@@ -8,6 +8,7 @@
       <list>
         <option value="$PROJECT_DIR$/com.testng/pom.xml" />
         <option value="$PROJECT_DIR$/Chapter6/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
