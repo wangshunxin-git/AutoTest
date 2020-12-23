@@ -2,18 +2,25 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="com.testng" />
         <module name="demo" />
+        <module name="com.testng" />
+        <module name="Chapter12" />
+        <module name="Chapter11" />
+        <module name="com.mytest" />
         <module name="Chapter6" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Chapter10" target="1.5" />
+      <module name="Chapter11" target="1.6" />
+      <module name="Chapter12" target="6" />
       <module name="Chapter6" target="6" />
+      <module name="com.mytest" target="8" />
       <module name="com.testng" target="1.5" />
       <module name="com.testng (1)" target="1.5" />
       <module name="demo" target="1.8" />
